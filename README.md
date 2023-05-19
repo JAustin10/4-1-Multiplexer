@@ -7,6 +7,7 @@ Out=S1'S0'A+S1'S0B+S1S0'C+S1S0D
 
 The Logic gates were designed individually and were tested before implementing it in the final design.The symbols were then constructed and this allowed for multiple use of a single design.
 Given below is the schematic of the 4:1 Multiplexer.
+
 SCHEMATIC
 --
 ![4](https://github.com/JAustin10/4-1-Multiplexer/assets/133579820/d4969aeb-fbc5-44d6-9110-f8245119c003)
