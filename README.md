@@ -12,7 +12,7 @@ SCHEMATIC
 --
 ![4](https://github.com/JAustin10/4-1-Multiplexer/assets/133579820/d4969aeb-fbc5-44d6-9110-f8245119c003)
 
-One Input NOT Gate
+NOT Gate
 --
 ![1](https://github.com/JAustin10/4-1-Multiplexer/assets/133579820/eb027117-d17b-43cb-bfca-0cd4f4fca3af)
 
